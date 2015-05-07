@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09CF3C9A-E6D2-437A-8D3B-603BF2E92A8B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF37FDCAB402FA1CE69B7541590A5C171B2FCD6B</key>
+		<string>github.com:bradynpoulsen/cs3005.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UltimateTicTacToe/UltimateTicTacToe.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF37FDCAB402FA1CE69B7541590A5C171B2FCD6B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:bradynpoulsen/cs3005.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF37FDCAB402FA1CE69B7541590A5C171B2FCD6B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF37FDCAB402FA1CE69B7541590A5C171B2FCD6B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cs3005</string>
+		</dict>
+	</array>
+</dict>
+</plist>
